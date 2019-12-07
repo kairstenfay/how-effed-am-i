@@ -1,3 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Karla|Permanent+Marker&display=swap');
+
+h1 {
+  font-family: 'Permanent Marker', cursive;
+}
+
+input {
+  margin: 1vh;
+  height: 20px;
+}
+
 .App {
   text-align: center;
 }
@@ -14,8 +25,9 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: green;
+  min-height: 15vh;
+  max-height: 30vh;
   display: flex;
   flex-direction: column;
   align-items: center;
