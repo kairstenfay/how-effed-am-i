@@ -41,7 +41,7 @@ const AnnualIncome = () => (
 const CheckingSavings = () => (
   <>
     <FormItem>
-      <label for="checking">How much money do you have in checking accounts?</label>
+      <label for="checking">How much money do you have in cash and checking accounts?</label>
       <input name="checking" id="checking" />
     </FormItem>
     <FormItem>
