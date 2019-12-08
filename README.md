@@ -1,3 +1,11 @@
+# How F***ed am I?
+## A retirement calculator
+
+The goal of this application is to educate people on both their prospective funds in retirement and what they can do about their current situation.
+The app suggests both saving more and taking political action.
+
+## Development
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
